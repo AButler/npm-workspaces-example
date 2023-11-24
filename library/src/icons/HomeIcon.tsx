@@ -1,4 +1,4 @@
-export default function HomeIcon({ size }: { size: number }) {
+export const HomeIcon = ({ size }: { size: number }) => {
   return (
     <div
       style={{
@@ -9,4 +9,4 @@ export default function HomeIcon({ size }: { size: number }) {
       }}
     ></div>
   );
-}
+};

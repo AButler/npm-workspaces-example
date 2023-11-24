@@ -1,2 +1,1 @@
-import HomeIcon from "./HomeIcon";
-export default HomeIcon;
+export { HomeIcon } from "./HomeIcon";

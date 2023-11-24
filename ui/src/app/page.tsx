@@ -1,5 +1,5 @@
-import HelloWorld from "@sample/library";
-import HomeIcon from "@sample/library/icons";
+import { HelloWorld } from "@sample/library";
+import { HomeIcon } from "@sample/library/icons";
 
 export default function Home() {
   return (
