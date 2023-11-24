@@ -1,0 +1,7 @@
+{
+  "name": "npm-workspaces-example",
+  "workspaces": [
+    "library",
+    "ui"
+  ]
+}
